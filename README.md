@@ -1,1 +1,1 @@
-# develops
+HMVC structured CMS based on Codeigniter with multilingual packages and Oci Oracle support.
