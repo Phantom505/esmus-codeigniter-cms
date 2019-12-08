@@ -8,6 +8,7 @@ class App extends CI_Controller
 		parent::__construct();
 		$this->load->library(array('esmus'));
 		$this->load->model('App_model', 'app');
+		$this->load->helper('db');
 	}
 	
 	public function about()
